@@ -1,0 +1,50 @@
+eng_odstavek je napisan v jeziku:
+eng z verjetnostjo 0.28
+pcm z verjetnostjo 0.18
+nrr z verjetnostjo 0.14
+
+frn_odstavek je napisan v jeziku:
+frn z verjetnostjo 0.3
+itn z verjetnostjo 0.21
+por z verjetnostjo 0.18
+
+ger_odstavek je napisan v jeziku:
+ger z verjetnostjo 0.34
+dut z verjetnostjo 0.25
+eng z verjetnostjo 0.17
+
+hng_odstavek je napisan v jeziku:
+hng z verjetnostjo 0.27
+grk z verjetnostjo 0.15
+por z verjetnostjo 0.14
+
+nrr_odstavek je napisan v jeziku:
+nrr z verjetnostjo 0.28
+dut z verjetnostjo 0.24
+ger z verjetnostjo 0.18
+
+por_odstavek je napisan v jeziku:
+por z verjetnostjo 0.33
+spn z verjetnostjo 0.23
+itn z verjetnostjo 0.17
+
+slv_odstavek je napisan v jeziku:
+slv z verjetnostjo 0.26
+itn z verjetnostjo 0.2
+src3 z verjetnostjo 0.19
+
+spn_odstavek je napisan v jeziku:
+spn z verjetnostjo 0.38
+por z verjetnostjo 0.32
+frn z verjetnostjo 0.27
+
+src1_odstavek je napisan v jeziku:
+src3 z verjetnostjo 0.27
+src1 z verjetnostjo 0.26
+mkj z verjetnostjo 0.23
+
+swa_odstavek je napisan v jeziku:
+swa z verjetnostjo 0.44
+itn z verjetnostjo 0.1
+mkj z verjetnostjo 0.09
+
